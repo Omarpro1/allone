@@ -4,7 +4,7 @@ console.log("Scrpit By LeStrong_");
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("!suggest| By LeStrong_",{type: 'Playing'});
+          client.user.setActivity("!suggest|By Black team",{type: 'Playing'});
   
   });
   
